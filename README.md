@@ -9,15 +9,15 @@
 
 -------------------------------------------
 
-The 'pwd' command stands for "print working directory". It displays the current directory path on the command line.
+The `pwd` command stands for "print working directory". It displays the current directory path on the command line.
 
-The 'ls' command is used to list files and directories in the current directory.
+The `ls` command is used to list files and directories in the current directory.
 
-The 'cd' command is used to change the current directory.
+The `cd` command is used to change the current directory.
 
-The 'mkdir' command stands for "create directory". It is used to create a new directory (folder) whose name is provided as argument.
+The `mkdir` command stands for "create directory". It is used to create a new directory (folder) whose name is provided as argument.
 
-The "touch" command creates an empty file whose name is provided as an argument.
+The `touch` command creates an empty file whose name is provided as an argument.
 
 -----------------------------------------------------
 
